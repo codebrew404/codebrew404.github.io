@@ -1,6 +1,16 @@
 [
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/posts/codebrew404/index.html",
+      "/posts/sudoku/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/codebrew404/index.html",
+      "/posts/sudoku/index.html"
+    ]
   }
 ]

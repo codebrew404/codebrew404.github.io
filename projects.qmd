@@ -1,8 +1,14 @@
 ---
 title: "Projects"
 listing:
-  contents: posts
+  contents: posts/**/*.qmd
   sort: "date desc"
   type: grid
   categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [title, description, image, date]
+  feed: true
+page-layout: full
+title-block-banner: false
 ---
