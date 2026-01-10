@@ -4,13 +4,34 @@
     "href": "index.html",
     "title": "codebrew404",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "coding for fun in my free time and creating content while I do it!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "codebrew404",
+    "section": "",
+    "text": "I am just coding for fun in my free time, and creating content while I do it!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#about-this-blog",
+    "href": "about.html#about-this-blog",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This is the contents of the about page for my blog."
   }
 ]

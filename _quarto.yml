@@ -5,15 +5,26 @@ project:
 website:
   title: "codebrew404"
   navbar:
+    logo: images/CodeBrew404Logo.jpg
+    background: secondary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+    search: true
+    tools:
+      - icon: github
+        href:  https://github.com/codebrew404
+        target: _blank
+      - icon: youtube
+        href: https://www.youtube.com/@codebrew404
+        target: _blank
 
 format:
   html:
     theme:
-      - cosmo
+      - vapor
       - brand
     css: styles.css
     toc: true
