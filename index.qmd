@@ -1,7 +1,7 @@
 ---
 about:
   template: jolla
-  image: images/CodeBrew404Logo.jpg
+  image: images/CodeBrew404LogoCircle.jpg
   links:
     - icon: github
       href:  https://github.com/codebrew404

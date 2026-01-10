@@ -4,8 +4,9 @@ project:
 
 website:
   title: "codebrew404"
+  favicon: images/CodeBrew404LogoCircle.jpg
   navbar:
-    logo: images/CodeBrew404Logo.jpg
+    logo: images/CodeBrew404LogoCircle.jpg
     background: secondary
     left:
       - href: index.qmd
