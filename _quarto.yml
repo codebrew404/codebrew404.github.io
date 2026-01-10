@@ -27,7 +27,6 @@ format:
       - vapor
       - brand
     css: styles.css
-    toc: true
 
 
 
